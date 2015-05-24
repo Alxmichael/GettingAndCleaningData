@@ -27,4 +27,4 @@ run_analysis.R performs the following:
 5. The three data sets, x, y and subj, are merged. Then, it is exported as a txt file into the Project folder in the same working directory, named merged.txt.
 6. The mean of activities and subjects are created into a separate tidy data set which is exported into the Project folder as txt file; this is named average.txt.
 
-The R code contains str for easier preview of the two final data sets.
+The R code contains str for easier preview of the two final data sets
